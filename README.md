@@ -1,8 +1,6 @@
 👋 Hi, I'm Sara Derdak
 
-🌟 About Me
-
-I am a passionate **Full Stack Developer** with expertise in both frontend and backend technologies.
+🌟 I am a passionate **Full Stack Developer** with expertise in both frontend and backend technologies.
 
  🚀 Technologies & Tools
 - **Frontend**: HTML | CSS | JavaScript | React.js | Bootstrap
