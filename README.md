@@ -1,6 +1,7 @@
 👋 Hi, I'm Sara Derdak
 
 🌟 About Me
+
 I am a passionate **Full Stack Developer** with expertise in both frontend and backend technologies.
 
  🚀 Technologies & Tools
@@ -10,4 +11,5 @@ I am a passionate **Full Stack Developer** with expertise in both frontend and b
 - **Other**: Git 
 
 🔭 I’m currently working on my portfolio website and several other projects
+
 📫 How to reach sara.derdak06@gmail.com
