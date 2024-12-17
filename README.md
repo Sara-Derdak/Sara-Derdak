@@ -1,0 +1,13 @@
+👋 Hi, I'm Sara Derdak
+
+🌟 About Me
+I am a passionate **Full Stack Developer** with expertise in both frontend and backend technologies.
+
+ 🚀 Technologies & Tools
+- **Frontend**: HTML | CSS | JavaScript | React.js | Bootstrap
+- **Backend**: PHP | Laravel | python
+- **Databases**: MySQL | MongoDB
+- **Other**: Git 
+
+🔭 I’m currently working on my portfolio website and several other projects
+📫 How to reach sara.derdak06@gmail.com
