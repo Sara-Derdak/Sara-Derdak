@@ -6,7 +6,7 @@
 - **Frontend**: HTML | CSS | JavaScript | React.js | Bootstrap
 - **Backend**: PHP | Laravel | python
 - **Databases**: MySQL | MongoDB
-- **Other**: Git 
+- **Other**: Git | GitHub | GitLab | UML
 
 🔭 I’m currently working on my portfolio website and several other projects
 
