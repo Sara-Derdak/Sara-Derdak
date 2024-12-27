@@ -2,7 +2,7 @@
 <h3 align="center">🌟 I am a passionate Full Stack Developer with expertise in both frontend and backend technologies.</h3>
 
 <img align="center" alt="Coding" width="100%" src="https://db0dce98.rocketcdn.me/wp-content/uploads/2024/03/formation-developpeur-full-stack-datascientest-1024x585-1.jpg">
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sara-Derdaki&label=Profile%20views&color=0e75b6&style=flat" alt="Sara-Derdak" /> </p>
 
  🚀 Technologies & Tools
 - **Frontend**: HTML | CSS | JavaScript | React.js | Bootstrap
